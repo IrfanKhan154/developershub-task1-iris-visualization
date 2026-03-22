@@ -1,3 +1,9 @@
+# DevelopersHub Internship — Data Science Tasks
+
+> **Status:** Task 1 ✅ Complete | Task 2 🔜 Upcoming
+
+---
+
 # Task 1: Exploring and Visualizing a Simple Dataset (Iris)
 
 ## Objective
@@ -62,3 +68,11 @@ python task1_iris_analysis.py
 - Data loading and inspection with pandas
 - Descriptive statistics and data exploration
 - Data visualization with matplotlib and seaborn
+
+---
+
+# Task 2: Coming Soon 🔜
+
+Task 2 details have not yet been provided. This section will be updated once the requirements are confirmed.
+
+> **Note:** The repository is ready and waiting for Task 2 requirements.
